@@ -1,5 +1,5 @@
 package com.javacodegeeks.user.util;
-
+package com.Test
 import org.easymock.EasyMock;
 import org.junit.Assert;
 import org.junit.Test;
